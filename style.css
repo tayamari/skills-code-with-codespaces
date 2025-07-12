@@ -1,0 +1,26 @@
+p {
+    color: rgb(54, 87, 123)
+}
+a:hover {
+color: cornflowerblue;
+}
+
+p li {
+    color: rgb(122, 85, 222)
+}
+
+.talley {
+    font-style: bold;
+}
+
+h1, h2, p, li {
+font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+h2.reason {
+font-size: medium;
+}
+
+title {
+    border: solid 1px;
+}
